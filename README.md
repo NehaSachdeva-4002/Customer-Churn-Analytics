@@ -5,8 +5,10 @@ Welcome to my Customer Churn Dashboard project! This interactive Power BI dashbo
 By combining **SQL**, **Machine Learning**, and **Power BI**, this project tells a data story that helps stakeholders make smarter, proactive decisions.
 
 ---
-<img width="1283" height="724" alt="image" src="https://github.com/user-attachments/assets/c7958a60-7df4-421e-b577-2b67ecaa0ad8" />
-<img width="1285" height="732" alt="image" src="https://github.com/user-attachments/assets/9b9d0a3f-1756-46cc-b992-d2dbfcfac702" />
+<img width="1288" height="715" alt="image" src="https://github.com/user-attachments/assets/4a32c675-6e83-4a37-b57d-144406ffaa2f" />
+<img width="1289" height="737" alt="image" src="https://github.com/user-attachments/assets/9dfb7fb9-4df7-4d7f-8ba7-f975e50dc4be" />
+
+
 
 ## 💡 Why This Project?
 
